@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1711729457 source:c:\users\ishti\onedrive\desktop\add\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1711730956 source:c:\users\ishti\onedrive\desktop\bootcamp\add\main.c
+	<stdio.h>
+	<stdlib.h>
+
